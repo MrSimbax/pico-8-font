@@ -1,0 +1,241 @@
+number	character	name	code point
+16	▮	vertical rectangle	u+25ae
+17	■	filled square	u+25a0
+18	□	hollow square	u+25a1
+19	⁙	five dot	u+2059
+20	⁘	four dot	u+2058
+21	‖	pause	u+2016
+22	◀	back	u+25c0
+23	▶	forward	u+25b6
+24	「	japanese starting quote	u+300c
+25	」	japanese ending quote	u+300d
+26	¥	yen sign	u+a5
+27	•	interpunct	u+2022
+28	、	japanese comma	u+3001
+29	。	japanese full stop	u+3002
+30	゛	japanese dakuten	u+309b
+31	゜	japanese handakuten	u+309c
+32	space	space	
+33	!	!	
+34	"	double quote	
+35	#	#	
+36	$	$	
+37	%	%	
+38	&	&	
+39	'	single quote	
+40	(	(	
+41	)	)	
+42	*	*	
+43	+	+	
+44	,	,	
+45	-	-	
+46	.	.	
+47	/	/	
+48	0	0	
+49	1	1	
+50	2	2	
+51	3	3	
+52	4	4	
+53	5	5	
+54	6	6	
+55	7	7	
+56	8	8	
+57	9	9	
+58	:	:	
+59	;	;	
+60	<	<	
+61	=	=	
+62	>	>	
+63	?	?	
+64	@	@	
+65	A	A	
+66	B	B	
+67	C	C	
+68	D	D	
+69	E	E	
+70	F	F	
+71	G	G	
+72	H	H	
+73	I	I	
+74	J	J	
+75	K	K	
+76	L	L	
+77	M	M	
+78	N	N	
+79	O	O	
+80	P	P	
+81	Q	Q	
+82	R	R	
+83	S	S	
+84	T	T	
+85	U	U	
+86	V	V	
+87	W	W	
+88	X	X	
+89	Y	Y	
+90	Z	Z	
+91	[	[	
+92	\	\	
+93	]	]	
+94	^	^	
+95	_	_	
+96	`	`	
+97	a	a	
+98	b	b	
+99	c	c	
+100	d	d	
+101	e	e	
+102	f	f	
+103	g	g	
+104	h	h	
+105	i	i	
+106	j	j	
+107	k	k	
+108	l	l	
+109	m	m	
+110	n	n	
+111	o	o	
+112	p	p	
+113	q	q	
+114	r	r	
+115	s	s	
+116	t	t	
+117	u	u	
+118	v	v	
+119	w	w	
+120	x	x	
+121	y	y	
+122	z	z	
+123	{	{	
+124	|	|	
+125	}	}	
+126	~	~	
+127	○	hollow circle	u+25cb
+128	█	rectangle	u+2588
+129	▒	checkerboard	u+2592
+130	🐱︎	jelpi	u+01f431
+131	⬇︎	down key	u+2b07
+132	░	dot pattern	u+2591
+133	✽	throwing star	u+273d
+134	●	ball	u+25cf
+135	♥	heart	u+2665
+136	☉	eye	u+2609
+137	웃	man	u+c6c3
+138	⌂	house	u+2302
+139	⬅︎	left key	u+2b05
+140	😐︎	face	u+01f610
+141	♪	musical note	u+266a
+142	🅾	o key	u+01f17e
+143	◆	diamond	u+25c6
+144	…	ellipsis	u+2026
+145	➡︎	right key	u+27a1
+146	★	five-pointed star	u+2605
+147	⧗	hourglass	u+29d7
+148	⬆︎	up key	u+2b06
+149	,	birds	u+2c7
+150	∧	sawtooth	u+2227
+151	❎︎	x key	u+274e
+152	▤	horiz lines	u+25a4
+153	▥	vert lines	u+25a5
+154	あ	a	u+3042
+155	い	i	u+3044
+156	う	u	u+3046
+157	え	e	u+3048
+158	お	o	u+304a
+159	か	ka	u+304b
+160	き	ki	u+304d
+161	く	ku	u+304f
+162	け	ke	u+3051
+163	こ	ko	u+3053
+164	さ	sa	u+3055
+165	し	shi	u+3057
+166	す	su	u+3059
+167	せ	se	u+305b
+168	そ	so	u+305d
+169	た	ta	u+305f
+170	ち	chi	u+3061
+171	つ	tsu	u+3064
+172	て	te	u+3066
+173	と	to	u+3068
+174	な	na	u+306a
+175	に	ni	u+306b
+176	ぬ	nu	u+306c
+177	ね	ne	u+306d
+178	の	no	u+306e
+179	は	ha	u+306f
+180	ひ	hi	u+3072
+181	ふ	fu	u+3075
+182	へ	he	u+3078
+183	ほ	ho	u+307b
+184	ま	ma	u+307e
+185	み	mi	u+307f
+186	む	mu	u+3080
+187	め	me	u+3081
+188	も	mo	u+3082
+189	や	ya	u+3084
+190	ゆ	yu	u+3086
+191	よ	yo	u+3088
+192	ら	ra	u+3089
+193	り	ri	u+308a
+194	る	ru	u+308b
+195	れ	re	u+308c
+196	ろ	ro	u+308d
+197	わ	wa	u+308f
+198	を	wo	u+3092
+199	ん	n	u+3093
+200	っ	sokuon	u+3063
+201	ゃ	digraph: ya	u+3083
+202	ゅ	digraph: yu	u+3085
+203	ょ	digraph: yo	u+3087
+204	ア	a	u+30a2
+205	イ	i	u+30a4
+206	ウ	u	u+30a6
+207	エ	e	u+30a8
+208	オ	o	u+30aa
+209	カ	ka	u+30ab
+210	キ	ki	u+30ad
+211	ク	ku	u+30af
+212	ケ	ke	u+30b1
+213	コ	ko	u+30b3
+214	サ	sa	u+30b5
+215	シ	shi	u+30b7
+216	ス	su	u+30b9
+217	セ	se	u+30bb
+218	ソ	so	u+30bd
+219	タ	ta	u+30bf
+220	チ	chi	u+30c1
+221	ツ	tsu	u+30c4
+222	テ	te	u+30c6
+223	ト	to	u+30c8
+224	ナ	na	u+30ca
+225	ニ	ni	u+30cb
+226	ヌ	nu	u+30cc
+227	ネ	ne	u+30cd
+228	ノ	no	u+30ce
+229	ハ	ha	u+30cf
+230	ヒ	hi	u+30d2
+231	フ	fu	u+30d5
+232	ヘ	he	u+30d8
+233	ホ	ho	u+30db
+234	マ	ma	u+30de
+235	ミ	mi	u+30df
+236	ム	mu	u+30e0
+237	メ	me	u+30e1
+238	モ	mo	u+30e2
+239	ヤ	ya	u+30e4
+240	ユ	yu	u+30e6
+241	ヨ	yo	u+30e8
+242	ラ	ra	u+30e9
+243	リ	ri	u+30ea
+244	ル	ru	u+30eb
+245	レ	re	u+30ec
+246	ロ	ro	u+30ed
+247	ワ	wa	u+30ef
+248	ヲ	wo	u+30f2
+249	ン	n	u+30f3
+250	ッ	sokuon	u+30c3
+251	ャ	digraph: ya	u+30e3
+252	ュ	digraph: yu	u+30e5
+253	ョ	digraph: yo	u+30e7
+254	◜	left arc	u+25dc
+255	◝	right arc	u+25dd

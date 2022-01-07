@@ -1,0 +1,16 @@
+﻿The FontStruction “PICO-8”
+(https://fontstruct.com/fontstructions/show/2052852) by “Simbax” is licensed
+under a Creative Commons CC0 Public Domain Dedication license
+(http://creativecommons.org/publicdomain/zero/1.0/).
+“PICO-8” was originally cloned (copied) from the FontStruction “PICO-8
+wide reversed” (https://fontstruct.com/fontstructions/show/1340755) by
+“RhythmLynx”, which is licensed under a Creative Commons CC0 Public Domain
+Dedication license (http://creativecommons.org/publicdomain/zero/1.0/).
+“PICO-8 wide reversed” was in turn cloned (copied) from the FontStruction
+“PICO-8 mono reversed” (https://fontstruct.com/fontstructions/show/1340339)
+by “RhythmLynx”, which is licensed under a Creative Commons CC0 Public
+Domain Dedication license (http://creativecommons.org/publicdomain/zero/1.0/).
+“PICO-8 mono reversed” was in turn cloned (copied) from the FontStruction
+“PICO-8” (https://fontstruct.com/fontstructions/show/1254853) by
+“RhythmLynx”, which is licensed under a Creative Commons CC0 Public Domain
+Dedication license (http://creativecommons.org/publicdomain/zero/1.0/).
